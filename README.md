@@ -1,16 +1,15 @@
-## Hi there 👋
+# 你好，我是袁晨柯 👋
 
-<!--
-**yuanchenke/yuanchenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 正在学习编程与人工智能
+- 🛠️ 使用 GitHub 记录和管理项目
+- 🚀 持续探索有趣的技术与创意
+
+## 我的项目
+
+这里将陆续展示我的学习成果和个人项目。
+
+感谢你的访问！
